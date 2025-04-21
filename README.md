@@ -1,5 +1,5 @@
 
-# 👩🏼‍💻⚖️💻 Olá, mundo! Bem-vindos ao meu GitHub! 🌍
+# 👩🏼‍💻⚖️💻 Hello World! Sou a Raíssa, bem-vindos ao meu GitHub! ✨
 
 Sou uma **advogada em transição para a área de Computação** — um caminho desafiador, mas incrivelmente empolgante!  
 Atualmente, estou mergulhando nos estudos de programação e tecnologia com o objetivo de **colocar meus conhecimentos em prática**, criar projetos e **compartilhar minha jornada de aprendizado** com a comunidade dev. 🚀

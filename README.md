@@ -1,16 +1,13 @@
 
 # 👩🏼‍💻⚖️💻 Hello World! Sou a Raíssa, bem-vindos ao meu GitHub! ✨
 
-Sou uma **advogada em transição para a área de Computação** — um caminho desafiador, mas incrivelmente empolgante!  
-Atualmente, estou mergulhando nos estudos de programação e tecnologia com o objetivo de **colocar meus conhecimentos em prática**, criar projetos e **compartilhar minha jornada de aprendizado** com a comunidade dev. 🚀
+Sou uma **advogada aprendendo sobre a área da Computação** — um caminho desafiador, mas incrivelmente empolgante!  
+Atualmente, estou mergulhando nos estudos de programação e tecnologia com o objetivo de **colocar meus conhecimentos em prática**, criar projetos e **compartilhar minha jornada de aprendizado** com a comunidade. 🚀
 
 💻 Aqui você vai encontrar:
 - Projetos de cursos e estudos 📚  
-- Anotações e experimentações com linguagens de programação (spoiler: tô estudando Java! ☕)  
+- Anotações e experimentações com linguagens de programação
 - Contribuições abertas à colaboração e feedback! 🤝
-
-🎯 **Por que estou aqui?**  
-Quero transformar minha migração de carreira em algo significativo — para mim e para quem, assim como eu, está começando e buscando um espaço para crescer com leveza e propósito.
 
 ---
 

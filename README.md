@@ -1,35 +1,44 @@
 
-# 👩🏼‍💻⚖️💻 Hello World! Sou a Raíssa, bem-vindos ao meu GitHub! ✨
+Olá! Eu sou a Raíssa 👩🏻‍💻⚖️
 
-Sou uma **advogada aprendendo sobre a área da Computação** — um caminho desafiador, mas incrivelmente empolgante!  
-Atualmente, estou mergulhando nos estudos de programação e tecnologia com o objetivo de **colocar meus conhecimentos em prática**, criar projetos e **compartilhar minha jornada de aprendizado** com a comunidade. 🚀
+Direito | Tecnologia | Inteligência Artificial | Automação
 
-💻 Aqui você vai encontrar:
-- Projetos de cursos e estudos 📚  
-- Anotações e experimentações com linguagens de programação
-- Contribuições abertas à colaboração e feedback! 🤝
+Sou profissional do Direito e estudante de Análise e Desenvolvimento de Sistemas, interessada na interseção entre tecnologia, inovação e soluções jurídicas.
 
----
+Minha trajetória combina experiência jurídica, análise de processos e pesquisa, com uma formação em desenvolvimento de software e exploração de tecnologias emergentes. Tenho especial interesse em utilizar programação, inteligência artificial e automação para otimizar processos, estruturar informações e solucionar problemas do cotidiano jurídico e empresarial.
 
-## 💡 Fun facts sobre mim:
-🎸 Amo rock (meu Spotify é praticamente um festival 24/7)  
-🐱 Sou apaixonada por gatos — eles estão até nos meus cadernos de estudo!  
-🏹 Faço aula de arco e flecha (é meu jeito de meditar!)  
-🎬 Sou fã de comédias românticas 
+💫 O que estou desenvolvendo
 
----
+- Desenvolvimento: fundamentos de programação e construção de aplicações.
+- Inteligência Artificial: IA generativa, engenharia de prompts e aplicações práticas.
+- Automação: criação de fluxos e integração de ferramentas com n8n.
+- LegalTech: soluções tecnológicas para gestão, análise e automação de atividades jurídicas.
 
-📍 **De**: Direito  
-🚀 **Para**: Desenvolvimento e tecnologia  
-✨ *Aprendendo, criando e compartilhando essa jornada!*
+🛠️ Tecnologias e ferramentas
 
----
+- Python
+- n8n
+- Git e GitHub
+- Inteligência Artificial Generativa
+- Engenharia de Prompts
+- Streamlit
 
-Se você também está começando, em transição de carreira ou só quer trocar ideias sobre café, código e gatos — seja bem-vindo(a)!
+Estou em constante aprendizado e ampliando meu repertório técnico por meio de estudos e projetos práticos.
 
-🌐 Let's connect!
+💡 Interesses
 
-<!---
-RaissaAbreu/RaissaAbreu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- LegalTech e transformação digital do Direito
+- Legal Operations e automação de processos
+- Inteligência Artificial aplicada a negócios
+- Desenvolvimento de software
+- Análise e estruturação de dados
+
+💖 Além do código
+
+Sou fundadora da comunidade Girls Tech, iniciativa voltada à conexão e ao incentivo de mulheres na tecnologia. Também sou voluntária na causa animal e acredito no poder da colaboração e do compartilhamento de conhecimento.
+
+🤝 Vamos nos conectar?
+
+Estou aberta a trocar experiências, colaborar em projetos e conhecer pessoas interessadas em tecnologia, inovação e transformação digital.
+
+"LinkedIn" https://www.linkedin.com/in/raíssa-rangel-santos-de-abreu • "GitHub" https://github.com/RaissaAbreu

@@ -1,7 +1,7 @@
 
-Olá! Eu sou a Raíssa 👩🏻‍💻⚖️
+**Olá! Eu sou a Raíssa 👩🏼‍💻⚖️**
 
-Direito | Tecnologia | Inteligência Artificial | Automação
+*Direito | Tecnologia | Inteligência Artificial | Automação*
 
 Sou profissional do Direito e estudante de Análise e Desenvolvimento de Sistemas, interessada na interseção entre tecnologia, inovação e soluções jurídicas.
 
